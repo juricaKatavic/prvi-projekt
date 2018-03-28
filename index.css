@@ -1,0 +1,43 @@
+body {
+	background-image: url("images/pozadina.gif");
+	margin-top: 0%;
+    margin-bottom: 0%;
+    margin-right: 17%;
+    margin-left: 17%;
+    
+}
+ul {
+    list-style-type: none;
+    margin-top: 5%;
+    margin-bottom: 0%;
+    margin-right: 0%;
+    margin-left: 0%;
+    padding: 0%;
+    background-color: #000000;
+    opacity: 0.6;
+    text-align: center;
+}
+li {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    font-size: 25px;
+    font-family: Georgia, Charcoal, sans-serif;
+}
+p {
+	color: white;
+   text-align: center;
+   font-size: 25px;
+   background-color: #000000;
+   opacity: 0.6;
+   }
+
+h1 {
+   color: #FAEBD7;
+   font-size: 50px;
+   text-align: center;
+}
+div {
+	padding: 12px;
+}
